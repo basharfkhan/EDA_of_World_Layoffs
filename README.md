@@ -1,4 +1,6 @@
 📌 Data Cleaning and Exploratory Data Analysis (EDA) using SQL
+
+
 📖 Overview
 This project focuses on data cleaning and exploratory data analysis (EDA) using SQL. The dataset, layoffs.csv, contains information about layoffs across various industries, companies, and time periods. The project involves cleaning the dataset to remove inconsistencies and performing SQL-based exploratory analysis to extract meaningful insights.
 
