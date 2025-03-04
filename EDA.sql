@@ -32,6 +32,11 @@ FROM layoffs_staging2;
  group by stage
  order by 2 desc;
  
+SELECT country, SUM(total_laid_off)
+FROM layoffs_staging2
+group by country
+order by 2 desc;
+ 
 SELECT company, AVG(percentage_laid_off)
 FROM layoffs_staging2
 group by company
