@@ -18,10 +18,13 @@ This project focuses on data cleaning and exploratory data analysis (EDA) using 
 SQL (MySQL) – Used for data cleaning and exploratory analysis.
 
 
-The EDA.sql script explores:
+## 📊 SQL Analysis (EDA.sql)
 
 📉 Industry Trends: Identifying which industries had the highest layoffs.
 
 🌍 Geographical Trends: Analyzing layoffs across different regions.
 
 🏢 Company-Specific Analysis: Finding the companies with the highest layoffs.
+
+Tableau Dashbaord
+[![World Layoffs Dashboard](dashboard.png)](https://public.tableau.com/views/World_LayoffsVisualised/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
